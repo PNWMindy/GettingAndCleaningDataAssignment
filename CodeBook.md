@@ -13,14 +13,11 @@ Subject
 Activity 
 	Type of activity being measured
 		WALKING
-
 		WALKING_UPSTAIRS
-
 		WALKING_DOWNSTAIRS
 		SITTING
 		STANDING
-		
-LAYING
+		LAYING
 	
 
 -----------------------------------------------------------------------------------
